@@ -1,2 +1,2 @@
 # App-Filmes
-Conceitos básicos para criação de uma API Web com o ASP.NET Core.
+Conceitos básicos para desenvolvimento uma aplicação Web do ASP.NET Core MVC
