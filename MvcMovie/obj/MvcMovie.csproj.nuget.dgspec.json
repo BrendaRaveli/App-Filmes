@@ -1,28 +1,21 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Materias de estudos\\Projetos\\MvcMovie\\MvcMovie\\MvcMovie.csproj": {}
+    "C:\\Users\\brenda.raveli\\Documents\\Projetos\\Estudo\\App-Filmes\\MvcMovie\\MvcMovie.csproj": {}
   },
   "projects": {
-    "D:\\Materias de estudos\\Projetos\\MvcMovie\\MvcMovie\\MvcMovie.csproj": {
+    "C:\\Users\\brenda.raveli\\Documents\\Projetos\\Estudo\\App-Filmes\\MvcMovie\\MvcMovie.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Materias de estudos\\Projetos\\MvcMovie\\MvcMovie\\MvcMovie.csproj",
+        "projectUniqueName": "C:\\Users\\brenda.raveli\\Documents\\Projetos\\Estudo\\App-Filmes\\MvcMovie\\MvcMovie.csproj",
         "projectName": "MvcMovie",
-        "projectPath": "D:\\Materias de estudos\\Projetos\\MvcMovie\\MvcMovie\\MvcMovie.csproj",
+        "projectPath": "C:\\Users\\brenda.raveli\\Documents\\Projetos\\Estudo\\App-Filmes\\MvcMovie\\MvcMovie.csproj",
         "packagesPath": "C:\\Users\\brenda.raveli\\.nuget\\packages\\",
-        "outputPath": "D:\\Materias de estudos\\Projetos\\MvcMovie\\MvcMovie\\obj\\",
+        "outputPath": "C:\\Users\\brenda.raveli\\Documents\\Projetos\\Estudo\\App-Filmes\\MvcMovie\\obj\\",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
-          "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\",
-          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
-        ],
         "configFilePaths": [
           "C:\\Users\\brenda.raveli\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
           "netcoreapp3.1"
@@ -86,7 +79,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.101\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.406\\RuntimeIdentifierGraph.json"
         }
       }
     }

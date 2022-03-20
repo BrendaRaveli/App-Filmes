@@ -5,6 +5,17 @@
   </PropertyGroup>
 
   <ItemGroup>
+    <Compile Remove="Migrations\20220125145908_InitialCreate.cs" />
+    <Compile Remove="Migrations\20220125145908_InitialCreate.Designer.cs" />
+    <Compile Remove="Migrations\20220125175815_rating.cs" />
+    <Compile Remove="Migrations\20220125175815_rating.Designer.cs" />
+    <Compile Remove="Migrations\20220302001831_tabelaFilmes.cs" />
+    <Compile Remove="Migrations\20220302001831_tabelaFilmes.Designer.cs" />
+    <Compile Remove="Migrations\20220302002104_tabelaInicial.cs" />
+    <Compile Remove="Migrations\20220302002104_tabelaInicial.Designer.cs" />
+  </ItemGroup>
+
+  <ItemGroup>
     <PackageReference Include="Microsoft.EntityFrameworkCore.Design" Version="3.1.21">
       <PrivateAssets>all</PrivateAssets>
       <IncludeAssets>runtime; build; native; contentfiles; analyzers; buildtransitive</IncludeAssets>
